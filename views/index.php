@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Gestión de Artículos</title>
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="./views/css/styles.css">
 </head>
 <body>
     <h1>Gestión de Artículos</h1>
@@ -44,6 +44,6 @@
         <button type="button" id="btn-consulta">Consulta</button>
     </form>
 
-    <script src="scripts.js"></script>
+    <script src="./views/js/scripts.js"></script>
 </body>
 </html>
